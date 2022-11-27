@@ -1,0 +1,51 @@
+1668095362875	geckodriver	INFO	Listening on 127.0.0.1:64570
+1668095365952	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64571" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\7272~1\\AppData\\Local\\Temp\\rust_mozprofiletMGwR9"
+1668095368003	Marionette	INFO	Marionette enabled
+1668095368020	Marionette	INFO	Listening on port 64582
+Read port: 64582
+WebDriver BiDi listening on ws://127.0.0.1:64571
+1668095368358	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\7272~1\\AppData\\Local\\Temp\\rust_mozprofiletMGwR9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64571/devtools/browser/aaa6807b-92f2-4800-afe2-9e080351bf60
+1668095374369	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 593: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript warning: https://miet.ru/search, line 1: unreachable code after return statement
+1668095383974	Marionette	INFO	Stopped listening on port 64582
+[Parent 14636, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+1668232916649	geckodriver	INFO	Listening on 127.0.0.1:49818
+1668232919691	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49819" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\7272~1\\AppData\\Local\\Temp\\rust_mozprofileiMFyUk"
+1668232920912	Marionette	INFO	Marionette enabled
+1668232920923	Marionette	INFO	Listening on port 49833
+Read port: 49833
+WebDriver BiDi listening on ws://127.0.0.1:49819
+1668232921292	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\7272~1\\AppData\\Local\\Temp\\rust_mozprofileiMFyUk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49819/devtools/browser/de129ed2-22da-400c-b877-61846ad65d7c
+1668232926859	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://miet.ru/search, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://miet.ru."
+JavaScript warning: https://miet.ru/search?q=%D0%B2%D0%B0%D0%B4%D1%8B%D0%BE%D0%B2%D0%B0%D0%BB%D1%88%D0%B4, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://miet.ru."
+JavaScript warning: https://miet.ru/search?q=%D0%9A%D0%BE%D0%B6%D1%83%D1%85%D0%BE%D0%B2, line 1: unreachable code after return statement
+JavaScript warning: https://miet.ru/search?group=qual-105&q=%D0%9A%D0%BE%D0%B6%D1%83%D1%85%D0%BE%D0%B2, line 1: unreachable code after return statement
+1668233029536	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://miet.ru/search?group=direct&q=%D0%9A%D0%BE%D0%B6%D1%83%D1%85%D0%BE%D0%B2, line 1: unreachable code after return statement
+1668233075730	Marionette	INFO	Stopped listening on port 49833
+[Parent 11168, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1668233221682	geckodriver	INFO	Listening on 127.0.0.1:50270
+1668233224744	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50271" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\7272~1\\AppData\\Local\\Temp\\rust_mozprofilenQl8JF"
+1668233226273	Marionette	INFO	Marionette enabled
+1668233226286	Marionette	INFO	Listening on port 50282
+Read port: 50282
+WebDriver BiDi listening on ws://127.0.0.1:50271
+1668233226554	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\7272~1\\AppData\\Local\\Temp\\rust_mozprofilenQl8JF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50271/devtools/browser/e73c01d2-4c45-448b-a2f1-3d479159c964
+1668233230797	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://miet.ru/search, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://miet.ru."
+1668233257794	Marionette	INFO	Stopped listening on port 50282
